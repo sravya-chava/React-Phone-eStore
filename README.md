@@ -6,6 +6,8 @@ Demo: Please use this link for LIVE DEMO https://my-react-mobile-estore.netlify.
 Screenshots:
 ![Products page](preview/2019-11-29.png)
 ![Detail Product page](preview/Productdetail.png)
+![Detail cart Product](preview/Detailcart.png)
+![Cart page](preview/Cartpage.png)
 
 
 ## Available Scripts
